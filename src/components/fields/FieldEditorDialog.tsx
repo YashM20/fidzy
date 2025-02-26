@@ -63,7 +63,7 @@ export function FieldEditorDialog({
         <DialogHeader>
           <DialogTitle>{field ? "Edit Field" : "Add New Field"}</DialogTitle>
           <DialogDescription>
-            Configure the field properties. Click save when you're done.
+            Configure the field properties. Click save when you&apos;re done.
           </DialogDescription>
         </DialogHeader>
         <div className="grid gap-4 py-4">

@@ -22,7 +22,7 @@ export function PlayfulDesign({
           <h2 className="text-2xl font-bold">Hey {userName}! ✨</h2>
         </div>
         <div className="bg-white/20 rounded-2xl p-4">
-          <p className="text-lg">You're amazing! You just earned</p>
+          <p className="text-lg">You&apos;re amazing! You just earned</p>
           <p className="text-3xl font-bold">{points} Points! 🎉</p>
         </div>
       </div>
